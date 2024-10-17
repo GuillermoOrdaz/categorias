@@ -1,0 +1,10 @@
+com\upizz\Ventas\controllers\ClientesController.class
+com\upizz\Ventas\controllers\ProveedoresController.class
+com\upizz\Ventas\models\Categoria.class
+com\upizz\Ventas\controllers\VentasController.class
+com\upizz\Ventas\controllers\categoriasController.class
+com\upizz\Ventas\controllers\FacturasController.class
+com\upizz\Ventas\services\CategoriasService.class
+com\upizz\Ventas\repository\CategoriasRepository.class
+com\upizz\Ventas\VentasApplication.class
+com\upizz\Ventas\controllers\ProductosController.class
